@@ -1,0 +1,14 @@
+[
+    {
+        "model": "levelupapi.event",
+        "pk": 1,
+        "fields": {
+            "description": "game night",
+            "date": "2023-05-09",
+            "time": "09:35",
+            "organizer": 1,
+            "game": 1,
+            "attendees": [1]
+        }
+    }
+]
