@@ -10,3 +10,4 @@ class Event(models.Model):
     organizer = models.ForeignKey("Gamer", on_delete=models.CASCADE, related_name="organized_events")
     game = models.ForeignKey("Game", on_delete=models.CASCADE,)
     attendees = models.ManyToManyField("Gamer")
+

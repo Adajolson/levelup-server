@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Settlers of Catan",
+            "maker": "Mayfair Games",
+            "number_of_players": 4,
+            "skill_level": 2,
+            "game_type": 1,
+            "gamer": 1
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Dominion",
+            "maker": "Rio Grande Games",
+            "number_of_players": 4,
+            "skill_level": 3,
+            "game_type": 1,
+            "gamer": 1
+        }
+    }
+]
